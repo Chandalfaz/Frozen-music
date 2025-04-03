@@ -9,7 +9,7 @@ const BOT_TOKEN = "7568233642:AAGgMW_kH9ohXnXYILethMDhozpBW6hnTsk";
 const API_BASE_URL = "https://probable-berti-frozenbotspvt-17e82b7b.koyeb.app";
 
 //Pro people: don't change this else your bot will be fucked.
-const ASSISTANT_ID = "7049510852";
+const ASSISTANT_ID = "7415151676";
 
 
 let songQueue = [];
